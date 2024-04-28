@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "플로우 빌리지"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
