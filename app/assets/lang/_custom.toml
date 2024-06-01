@@ -4,11 +4,8 @@
 title = "모리 서버 런처"
 
 [ejs.landing]
-mediaGitHubURL = "#"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "#"
+mediaYouTubeURL = "https://www.youtube.com/@goldmori_games"
+mediaDiscordURL = "https://cafe.naver.com/goldmori"
 
 [ejs.settings]
 sourceGithubLink = "#"
