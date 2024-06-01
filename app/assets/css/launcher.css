@@ -3046,7 +3046,7 @@ input:checked + .toggleSwitchSlider:before {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 27px;
+    height: 29px;
 }
 
 /* Divider bar between the external and internal icons. */
