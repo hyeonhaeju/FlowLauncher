@@ -6,12 +6,16 @@ settingsTooltip = "설정"
 serverStatus = "서버"
 serverStatusPlaceholder = "오프라인"
 mojangStatus = "모장 서버 상태"
+<<<<<<< HEAD
 mojangStatusTooltipTitle = "상태 정보"
+=======
+mojangStatusTooltipTitle = "= 상태 정보 ="
+>>>>>>> 0b02d74fb25b6d024e36fdcf867f3342dcb33090
 mojangStatusNETitle = "Non&nbsp;Essential"
 newsButton = "공지사항"
 launchButton = "게임시작"
 launchButtonPlaceholder = "&#8226; No Server Selected"
-launchDetails = "Please wait.."
+launchDetails = "잠시만 기다려 주세요.."
 newsNavigationStatus = "{currentPage} of {totalPages}"
 newsErrorLoadSpan = "Checking for News.."
 newsErrorFailedSpan = "Failed to Load News"
@@ -56,7 +60,11 @@ navMods = "모드"
 navJava = "자바"
 navLauncher = "런처"
 navAbout = "정보"
+<<<<<<< HEAD
 navUpdates = "업데이트"
+=======
+navUpdates = ""
+>>>>>>> 0b02d74fb25b6d024e36fdcf867f3342dcb33090
 navDone = "확인"
 tabAccountHeaderText = "계정 설정"
 tabAccountHeaderDesc = "새 계정을 추가하거나 기존 계정을 관리합니다."

@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 appId: 'MoriLauncher'
 productName: 'Mori Launcher'
+=======
+appId: 'flowlauncher'
+productName: '플로우빌리지'
+>>>>>>> 0b02d74fb25b6d024e36fdcf867f3342dcb33090
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi'
+copyright: 'Copyright © 2018-2024 FLOW VILLAGE'
 
 asar: true
 compression: 'maximum'

@@ -1,18 +1,35 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
+<<<<<<< HEAD
 title = "모리 서버 런처"
 
 [ejs.landing]
 mediaGitHubURL = "https://cafe.naver.com/goldmori"
 mediaYouTubeURL = "https://www.youtube.com/@goldmori_games"
 mediaDiscordURL = "https://cafe.naver.com/goldmori"
+=======
+title = "플로우 빌리지"
+
+[ejs.landing]
+mediaGitHubURL = "#"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+>>>>>>> 0b02d74fb25b6d024e36fdcf867f3342dcb33090
 
 [ejs.settings]
 sourceGithubLink = "#"
 supportLink = "#"
 
 [ejs.welcome]
+<<<<<<< HEAD
 welcomeHeader = "모리 서버에 오신 것을 환영합니다"
 welcomeDescription = ""
 welcomeDescCTA = ""
+=======
+welcomeHeader = "플로우 빌리지에 오신것을 환영합니다."
+welcomeDescription = "해당 런처는 플로우 빌리지를 위해 만들어진 런처 입니다."
+welcomeDescCTA = "* <진행> 버튼을 누르시면 해당 서버의 규칙에 동의하는 걸로 간주됩니다. *"
+>>>>>>> 0b02d74fb25b6d024e36fdcf867f3342dcb33090
