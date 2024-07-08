@@ -166,9 +166,9 @@ noSelection = "No Server Selected"
 loading = "Loading.."
 
 [js.landing.serverStatus]
-server = "SERVER"
-offline = "OFFLINE"
-players = "PLAYERS"
+server = "서버"
+offline = "오프라인"
+players = "플레이어"
 
 [js.landing.systemScan]
 checking = "Checking system info.."
