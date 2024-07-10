@@ -133,6 +133,16 @@ document.getElementById('settingsMediaButton').onclick = async e => {
     switchView(getCurrentView(), VIEWS.settings)
 }
 
+document.getElementById('screenshotsMediaButton').onclick = async e => {
+    const screenshotDir = path.join(ConfigManager.getInstanceDirectory(), ConfigManager.getSelectedServer(), 'screenshots')
+    shell.openPath(screenshotDir)
+}
+
+document.getElementById('logMediaButton').onclick = e => {
+    shell.showItemInFolder(path.join(ConfigManager.getInstanceDirectory(), ConfigManager.getSelectedServer(), 'logs', 'latest.log'))
+}
+
+
 // Bind avatar overlay button.
 document.getElementById('avatarOverlay').onclick = async e => {
     await prepareSettings()
