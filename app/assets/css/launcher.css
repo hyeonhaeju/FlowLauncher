@@ -3063,11 +3063,10 @@ input:checked + .toggleSwitchSlider:before {
 /* Social media icon shared styles. */
 .mediaSVG {
     fill: #ffffff;
-    height: 12px;
     transition: 0.25s ease;
     cursor: pointer;
-    height: 12px;
-    width: 25px;
+    height: 16px;
+    width: 30px;
 }
 .mediaSVG:hover,
 .mediaURL:focus .mediaSVG,
