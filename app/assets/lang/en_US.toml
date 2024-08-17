@@ -291,10 +291,10 @@ fatalErrorMessage = "A connection could not be established to our servers to dow
 closeButton = "Close"
 
 [js.uibinder.validateAccount]
-failedMessageTitle = "Failed to Refresh Login"
+failedMessageTitle = "로그인 새로 고침 실패"
 failedMessage = "We were unable to refresh the login for <strong>{account}</strong>. Please select another account or login again."
-failedMessageSelectAnotherAccount = "We were unable to refresh the login for <strong>{account}</strong>. Please login again."
-loginButton = "Login"
+failedMessageSelectAnotherAccount = "<strong>{account}</strong> 로그인을 새로고침할 수 없습니다. 다시 로그인해 주세요."
+loginButton = "로그인"
 selectAnotherAccountButton = "Select Another Account"
 
 [js.uicore.autoUpdate]
