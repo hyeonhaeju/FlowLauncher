@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "플로우 빌리지"
+title = "FlowVillage Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://flowonline.notion.site/37a6ff70a1c54c67950005b13fa01a00"
