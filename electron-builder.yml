@@ -1,5 +1,5 @@
 appId: 'flowlauncher'
-productName: '플로우 빌리지'
+productName: '플로우 빌리지 런처'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024-ing by Flow Village'
